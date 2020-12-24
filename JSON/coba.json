@@ -1,0 +1,23 @@
+
+ [ 
+   {
+    "Nama": "Yoga Muhamad Rimba Andika",
+    "Umur": 22,
+    "Pendidikan": "Universitas Bina Sarana Informatika",
+    "Judul TA": "Sistem informasi pembayaran sekolah",
+    "Pembimbing 1": "Ari Setiawan",
+    "Pembimbing 2": "Febi",
+    "Language": ["PHP", "Javascript"],
+    "Framework": ["Bootsrap", "Tailwind", "SCCS"]
+  },
+  {
+    "Nama": "Resti Fauziah",
+    "Umur": 23,
+    "Pendidikan": "Universitas Bina Sarana Informatika",
+    "Judul TA": "Sistem informasi pembayaran sekolah",
+    "Pembimbing 1": "Ari Setiawan",
+    "Pembimbing 2": "Febi",
+    "Language": ["PHP", "Javascript"],
+    "Framework": ["Bootsrap", "Tailwind", "SCCS"]
+  }
+]
